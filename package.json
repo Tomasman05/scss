@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "lite-server & sass src/style.scss src/style.css"
+    "start": "lite-server",
+    "sass": "sass --watch src/style.scss src/style.css"
   },
   "keywords": [],
   "author": "",
