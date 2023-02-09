@@ -1,6 +1,10 @@
-$cont-color: blue ;
-$comp-color: navy;
+$cont-color: lightsalmon ;
+$comp-color: indianred;
+$backg-color:seagreen ;
 $comp-pad: 5px;
+body{
+    background-color: $backg-color;
+}
 .container{
     background-color: $cont-color;
 }

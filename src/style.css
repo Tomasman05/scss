@@ -1,0 +1,19 @@
+body {
+  background-color: seagreen;
+}
+
+.container {
+  background-color: lightsalmon;
+}
+
+h1 {
+  background-color: indianred;
+  padding: 5px;
+}
+
+p {
+  background-color: indianred;
+  padding: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
